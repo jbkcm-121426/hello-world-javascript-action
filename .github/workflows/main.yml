@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: jbkcm-121426/hello-world-javascript-action
+        uses: jbkcm-121426/hello-world-javascript-action@main
         with:
           who-to-greet: Mona the Octocat
 
